@@ -4,3 +4,10 @@ Code and data associated with Critical care workers have lower seroprevalence of
 DOI: 10.2478/jccm-2021-0018
 
 This paper has now been published in the Journal of Critical Care Medicine, available [here](https://jccm.ro/critical-care-workers-have-lower-seroprevalence-of-sars-cov-2-igg-compared-with-non-patient-facing-staff-in-first-wave-of-covid19/).
+
+## Analysis order
+- data_prep.ipynb
+- sero_status.ipynb
+- infection_risk.ipynb
+- severity_risk.ipynb
+- symptoms.ipynb
